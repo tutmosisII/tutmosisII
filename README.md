@@ -1,6 +1,11 @@
 # 🧭 Agile Leader and Software Engineer 🧭
 
-🕸 I'm currently searching for job..
+## 🕸 I'm currently searching for job...
+
+## Social Networks
+
+### [Linked In](https://www.linkedin.com/in/alejandro-leon-mora/)
+### [Twitter](https://twitter.com/tutmosisII)
 
 ## Previous Experiences:
 
