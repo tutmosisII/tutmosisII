@@ -1,5 +1,12 @@
-### Hi there 👋
+# 🧭 Agile Leader and Software Engineer 🧭
 
+🕸 I'm currently searching for job..
+
+## Previous Experiences:
+
+### [Appgate](https://appgate.com)
+### [Universidad El Bosque](https://www.unbosque.edu.co/)
+### [COMCEL S.A](https://www.claro.com.co/personas/)
 <!--
 **tutmosisII/tutmosisII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
