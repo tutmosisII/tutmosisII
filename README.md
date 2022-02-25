@@ -1,6 +1,8 @@
 # 🧭 Agile Leader and Software Engineer 🧭
 
+<!--
 ## 🕸 I'm currently searching for job...
+-->
 
 ## Social Networks
 
